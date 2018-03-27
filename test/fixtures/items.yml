@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  image: MyString
+  title: MyString
+  category: MyString
+  description: MyText
+  price: 9.99
+  glutenfree: false
+  icing: false
+  filling: MyString
+  other: MyString
+
+two:
+  image: MyString
+  title: MyString
+  category: MyString
+  description: MyText
+  price: 9.99
+  glutenfree: false
+  icing: false
+  filling: MyString
+  other: MyString
